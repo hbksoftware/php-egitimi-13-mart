@@ -4,7 +4,7 @@ Dünyamızda gerçekleşen dijital dönüşümün etkileri her açıdan hissedil
 
 13 Mart – PHP Template Oluşturma ve Form Methodları
 
-Php’de Html Yapısını İnceleme
-Php’de Template Yapısını İnceleme
-Php’de Template Parçalama
+Php’de Html Yapısını İnceleme,
+Php’de Template Yapısını İnceleme,
+Php’de Template Parçalama,
 Php’de Fom Methodları “Get”,”Post”
