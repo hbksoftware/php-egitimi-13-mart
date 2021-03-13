@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Form 2</title>
+</head>
+<body>
+	<form action="/kayit.php" method="post">
+		Adınız: <input type="text" name="FullName">
+		</br></br>
+		Şifreniz: <input type="password" name="Password">
+		</br></br>
+		Cinsiyet: <input type="radio" name="gender">Erkek<input type="radio" name="gender">Kadın
+		</br></br>
+		Bildiğiniz Diller: <input type="checkbox" name="dil1">İngilizce<input type="checkbox" name="dil2">Almanca
+		</br></br>
+		Yaşadğınız İl:<select name="City">
+			<option>Ankara</option>
+			<option>İstanbul</option>
+			<option>Izmır</option>
+		</select>
+		</br></br>
+		<textarea rows="5" cols="30" name="FullAdress"></textarea>
+		</br></br>
+		<input type="submit" name="btngonder" value="Gönder">
+		<input type="reset" name="btnTemizle" value="Temizle">
+	</form>
+</body>
+</html>
